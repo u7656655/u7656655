@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm a student studying a Bachelor of Advanced Computing at the Australian National University (ANU)
+
+Some interesting things about me:
+- Can program in Java, Python, C, PostgreSQL
+- Enjoys fitness (gym & running)
+- Learning piano
+- Love reading & writing
+- I play table tennis & tennis
+
 <!--
 **u7656655/u7656655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
