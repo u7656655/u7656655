@@ -6,7 +6,7 @@ Some interesting things about me:
 - Can program in Java, Python, C, PostgreSQL
 - Enjoys fitness (gym & running)
 - Learning piano
-- Love reading & writing
+- Enjoy reading & writing
 - I play table tennis & tennis
 
 <!--
